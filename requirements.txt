@@ -3,3 +3,5 @@ coiled-runtime
 dask
 distributed
 ipykernel
+humanfriendly
+matplotlib
